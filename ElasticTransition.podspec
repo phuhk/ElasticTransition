@@ -23,5 +23,5 @@ Pod::Spec.new do |s|
 
   s.source_files = 'ElasticTransition/*.swift'
 
-  s.dependency 'MotionAnimation', '~> 0.1.3'
+  s.dependency 'MotionAnimation', '~> 0.1.4'
 end
